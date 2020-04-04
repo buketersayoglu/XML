@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book>
+        <id>01</id>
+        <title>Ben, Kirke</title>
+        <author>Madeline Miller</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053759584</isbn>
+        <date>2019</date>
+        <price>20.30</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Ben-Kirke/Madeline-Miller/Edebiyat/Roman/Fantastik/urunno=0001836978001</url>
+</book>
+    <book>
+        <id>02</id>
+        <title>Vakıf</title>
+        <author>Isaac Asimov</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053757375</isbn>
+        <date>2017</date>
+        <price>22.75</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Vakif/Edebiyat/Roman/Bilim-Kurgu/urunno=0001730588001</url>
+</book>
+<book>
+        <id>03</id>
+        <title>Şeker Portakalı</title>
+        <author>Jose Mauro De Vasconcelos</author>
+        <publisher>Can Çocuk Yayınları </publisher>
+        <isbn>9789750738609</isbn>
+        <date>2000</date>
+        <price>16.45</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Seker-Portakali/Edebiyat/Roman/Dunya-Roman/urunno=0000000064031</url>
+</book>
+    <book>
+        <id>04</id>
+        <title>Kafes</title>
+        <author>Josh Malerman</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053758914</isbn>
+        <date>2018</date>
+        <price>17.00</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Kafes/Josh-Malerman/Edebiyat/Roman/Korku-Gerilim/urunno=0001789823001</url>
+</book>
+    <book>
+        <id>05</id>
+        <title>Bilge Adamın Korkusu - Kral Katili Güncesi 2. Gün</title>
+        <author>Patrick Rothfuss</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053751595</isbn>
+        <date>2011</date>
+        <price>45.56</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Bilge-Adamin-Korkusu-Kral-Katili-Guncesi-2-Gun/Edebiyat/Roman/Fantastik/urunno=0000000381039</url>
+</book>
+    <book>
+        <id>06</id>
+        <title>Artemis</title>
+        <author>Andy Weir</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053757764</isbn>
+        <date>2018</date>
+        <price>23.12</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Artemis/Edebiyat/Roman/Bilim-Kurgu/urunno=0001744372001</url>
+</book>
+    <book>
+        <id>07</id>
+        <title>Simyacı</title>
+        <author>Paulo Coelho</author>
+        <publisher>Can Yayınları</publisher>
+        <isbn>9789750726439</isbn>
+        <date>2010</date>
+        <price>16.45</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Simyaci/Edebiyat/Roman/Dunya-Roman/urunno=0000000064552</url>
+</book>
+    <book>
+        <id>08</id>
+        <title>Eragon</title>
+        <author>Christopher Paolini</author>
+        <publisher>Altın Kitaplar</publisher>
+        <isbn>9789752105034</isbn>
+        <date>2004</date>
+        <price>29.25</price>
+        <language>Türkçe</language>
+<url>https://www.idefix.com/Kitap/Eragon/Edebiyat/Roman/Fantastik/urunno=0000000163916</url>
+</book>
+    <book>
+        <id>09</id>
+        <title>Albaya Mektup Yok</title>
+        <author>Gabriel Garcia Marquez</author>
+        <publisher>Can Yayınları </publisher>
+        <isbn>9789750725616</isbn>
+        <date>2016</date>
+        <price>8.45</price>
+        <language>Türkçe</language>
+<url>https://www.idefix.com/Kitap/Albaya-Mektup-Yok/Edebiyat/Dunya-Oyku/urunno=0000000064188</url>
+</book>
+    <book>
+        <id>10</id>
+        <title>Gökyüzü Çocukları</title>
+        <author>Katherine Rundell</author>
+        <publisher>Domingo Yayınevi</publisher>
+        <isbn>9786054729609</isbn>
+        <date>2016</date>
+        <price>22.44</price>
+        <language>Türkçe</language>
+<url>https://www.idefix.com/Kitap/Gokyuzu-Cocuklari/Edebiyat/Roman/Dunya-Roman/urunno=0000000680447</url>
+</book>
+    <book>
+        <id>12</id>
+        <title>Babam Süt Peşinde</title>
+        <author>Neil Gaiman</author>
+        <publisher>Tudem Yayınları </publisher>
+        <isbn>9789944699877</isbn>
+        <date>2015</date>
+        <price>11.90</price>
+        <language>Türkçe</language>
+<url>https://www.idefix.com/Kitap/Babam-Sut-Pesinde/Cocuk-Ve-Genclik/Okul-Cagi-6-10-Yas/Cocuk-Kitaplari/urunno=0000000641300</url>
+</book>
+    <book>
+        <id>13</id>
+        <title>Koralin</title>
+        <author>Neil Gaiman</author>
+        <publisher>İthaki Yayınları </publisher>
+        <isbn>9786053759683</isbn>
+        <date>2019</date>
+        <price>11.70</price>
+        <language>Türkçe</language>
+<url>https://www.idefix.com/Kitap/Koralin/Neil-Gaiman/Edebiyat/Roman/Fantastik/urunno=0001822965001</url>
+</book>
+    <book>
+        <id>14</id>
+        <title>Gılgameş</title>
+        <author>Muazzez İlmiye Çığ</author>
+        <publisher>Kaynak Yayınları </publisher>
+        <isbn>9786056921735</isbn>
+        <date>2015</date>
+        <price>9.60</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Gilgames/Arastirma-Tarih/Tarih/Dunya-Tarihi/urunno=0000000101186</url>
+</book>
+    <book>
+        <id>15</id>
+        <title>Kraliçeyi Kurtarmak</title>
+        <author>Vladimir Tumanov</author>
+        <publisher>Günışığı Kitaplığı</publisher>
+        <isbn>9786053759584</isbn>
+        <date>2015</date>
+        <price>14.95</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Kraliceyi-Kurtarmak/Vladimir-Tumanov/Cocuk-ve-Genclik/Genclik-10-Yas/Roman-Oyku/urunno=0000000151838</url>
+</book>
+    <book>
+        <id>16</id>
+        <title>Denek E.E.E.</title>
+        <author>Aslı Der</author>
+        <publisher>Günışığı Kitaplığı </publisher>
+        <isbn>9786059405904</isbn>
+        <date>2019</date>
+        <price>13.40</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Denek-EEE/Asli-Der/Cocuk-ve-Genclik/Okul-Cagi-6-10-Yas/Cocuk-Oyku-Hikaye/urunno=0001807586001</url>
+</book>
+    <book>
+        <id>17</id>
+        <title>Maya Sonsuzlukta Bir Gölge</title>
+        <author>Payal Dhar</author>
+        <publisher>Carpediem Kitap</publisher>
+        <isbn>9786051441368</isbn>
+        <date>2017</date>
+        <price>14.00</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Maya-Sonsuzlukta-Bir-Golge/Payal-Dhar/Edebiyat/Roman/Fantastik/urunno=0001687801001</url>
+</book>
+    <book>
+        <id>18</id>
+        <title>Narnia Günlükleri 2 - Aslan, Cadı ve Dolap</title>
+        <author>C. S. Lewis</author>
+        <publisher>Doğan ve Egmont Yayıncılık</publisher>
+        <isbn>9789759910334</isbn>
+        <date>2005</date>
+        <price>18.20</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Narnia-Gunlukleri-2-Aslan-Cadi-Ve-Dolap/Cocuk-Ve-Genclik/Genclik-10-Yas/Fantastikbilim-Kurgu/urunno=0000000189227</url>
+</book>
+    <book>
+        <id>19</id>
+        <title>Narnia Günlükleri 4 - Prens Caspian</title>
+        <author>MC. S. Lewis</author>
+        <publisher>Doğan ve Egmont Yayıncılık</publisher>
+        <isbn>9789759910488</isbn>
+        <date>2015</date>
+        <price>18.20</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Narnia-Gunlukleri-4-Prens-Caspian/Cocuk-Ve-Genclik/Genclik-10-Yas/Fantastikbilim-Kurgu/urunno=0000000192345</url>
+</book>
+    <book>
+        <id>20</id>
+        <title>Kök-Kelimelerin Serüveni</title>
+        <author>Alp Paksoy</author>
+        <publisher>Ötüken Neşriyat</publisher>
+        <isbn>9786051558363</isbn>
+        <date>2019</date>
+        <price>10.92</price>
+        <language>Türkçe</language>
+<url>https://www.dr.com.tr/Kitap/Kok-Kelimelerin-Seruveni/Alp-Paksoy/Edebiyat/Edebiyat-Inceleme/urunno=0001844335001</url>
+</book>
+
+
+
+</catalogue>
